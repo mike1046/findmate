@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Findmate</string>
+    <string name="fb_app_id">827281994067657</string>
+    <string name="ak_client_token">d4db9739d9d70f56b3bb06aea49f4a44</string>
+    <string name="facebook_app_id">827281994067657</string>
+    <string name="fb_login_protocol_scheme">fb827281994067657</string>
+
+</resources>
